@@ -16,7 +16,9 @@ you need Xtensa SDK.
 
 ## Stolen code
 
-I stolen and adapted code from **nekromant/esp8266-frankenstein** , **Helius/microrl** , **espressif/esp_iot_rtos_sdk** .
-Makefile come from **esp8266/source-code-examples** and autostolen serial driver from **jlz3008/esp8266-console**.
+I stolen and adapted code from [nekromant/esp8266-frankenstein](nekromant/esp8266-frankenstein) ,
+[Helius/microrl](Helius/microrl) , [espressif/esp_iot_rtos_sdk]([espressif/esp_iot_rtos_sdk) .
+Makefile come from [esp8266/source-code-examples]([espressif/esp_iot_rtos_sdk) and autostolen
+serial driver from [jlz3008/esp8266-console](jlz3008/esp8266-console).
 
 Thanks to everyone.
